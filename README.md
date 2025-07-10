@@ -1,3 +1,5 @@
+do not forget to star ⭐🌟⭐
+
 ![My Logo](assets/images/icon.png)
 
 **MasterMeal** is a modern and responsive Flutter application that allows users to browse, search, and save their favorite meals. The app integrates with [TheMealDB API](https://www.themealdb.com/) and Firebase for authentication and favorites management.
