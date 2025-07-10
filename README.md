@@ -142,7 +142,7 @@ This project is licensed under the GNU License. See the [LICENSE](LICENSE) file 
 ## 📬 Contact
 
 * Developer: Anes
-* Kada Anes
+* Linkedin: Kada Anes
 * GitHub: @Touti-Sudo
 
 ---
