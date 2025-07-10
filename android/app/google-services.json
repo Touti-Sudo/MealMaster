@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "51718800484",
+    "project_id": "mealmaster-d329b",
+    "storage_bucket": "mealmaster-d329b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51718800484:android:435193c407df806811cb71",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51718800484-v7026m0r8pm7il7o0erkt5fcq87hv0oa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login",
+            "certificate_hash": "014c812f52c277eaed69c0c577411520cfba083f"
+          }
+        },
+        {
+          "client_id": "51718800484-t69of1rg2k4otr7ki5sfphqn3a9c327u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTrFzDqtpj24miFxSHgwggW63UeuM8GgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51718800484-0gtaac63tasbeauure8jbm0dmp48gr0s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "51718800484-lj3totcgbo64dtdssnlf9rugorn4u2bd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.login"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
