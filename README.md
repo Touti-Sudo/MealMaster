@@ -35,10 +35,10 @@ do not forget to star ⭐🌟⭐
 <img src="assets/screenshots/Home.jpg" alt="Home Screenshot" width="300"/>
 
 ### Search Page
-<img src="assets/screenshots/search.jpg" alt="Search Screenshot" width="300"/>
+<img src="assets/screenshots/Search.jpg" alt="Search Screenshot" width="300"/>
 
 ### Favorites Page
-<img src="assets/screenshots/favorites.jpg" alt="Favorites Screenshot" width="300"/>
+<img src="assets/screenshots/Favorites.jpg" alt="Favorites Screenshot" width="300"/>
 <img src="assets/screenshots/remove-favorites.jpg" alt="Favorites Screenshot" width="300"/>
 
 (slide to remove a favorite)
