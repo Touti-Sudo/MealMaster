@@ -101,7 +101,7 @@ lib/
 │   └── api.dart
 ├── components/
 │   │── facebook.dart
-│   │── goolge.dart
+│   │── google.dart
 │   └── my_button.dart
 ├── images/
 │   │── facebook.png
